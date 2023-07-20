@@ -9,6 +9,6 @@ function crearVentana(){
         width: 800,
         heigth: 600, 
     });
-
+ 
     ventanaPrincipal.loadFile('index.html');
 }
